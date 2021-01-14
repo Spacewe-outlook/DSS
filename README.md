@@ -1,3 +1,25 @@
 # DSS
 deterministic scan search algorithm
+
+
 ![1](https://github.com/Spacewe-outlook/DSS/blob/master/FIG_PHA_2D_F1.png)
+![1](https://github.com/Spacewe-outlook/DSS/blob/master/FIG_PHA_2D_F3.png)
+![1](https://github.com/Spacewe-outlook/DSS/blob/master/FIG_PHA_2D_F4.png)
+![1](https://github.com/Spacewe-outlook/DSS/blob/master/FIG_PHA_2D_F5.png)
+![1](https://github.com/Spacewe-outlook/DSS/blob/master/FIG_PHA_2D_F6.png)
+![1](https://github.com/Spacewe-outlook/DSS/blob/master/FIG_PHA_2D_F7.png)
+![1](https://github.com/Spacewe-outlook/DSS/blob/master/FIG_PHA_2D_F8.png)
+![1](https://github.com/Spacewe-outlook/DSS/blob/master/FIG_PHA_2D_F9.png)
+![1](https://github.com/Spacewe-outlook/DSS/blob/master/FIG_PHA_2D_F10.png)
+![1](https://github.com/Spacewe-outlook/DSS/blob/master/FIG_PHA_2D_F11.png)
+![1](https://github.com/Spacewe-outlook/DSS/blob/master/FIG_PHA_2D_F12.png)
+![1](https://github.com/Spacewe-outlook/DSS/blob/master/FIG_PHA_2D_F13.png)
+![1](https://github.com/Spacewe-outlook/DSS/blob/master/FIG_PHA_2D_F14.png)
+![1](https://github.com/Spacewe-outlook/DSS/blob/master/FIG_PHA_2D_F15.png)
+![1](https://github.com/Spacewe-outlook/DSS/blob/master/FIG_PHA_2D_F16.png)
+![1](https://github.com/Spacewe-outlook/DSS/blob/master/FIG_PHA_2D_F23.png)
+![1](https://github.com/Spacewe-outlook/DSS/blob/master/FIG_PHA_2D_F24.png)
+![1](https://github.com/Spacewe-outlook/DSS/blob/master/FIG_PHA_2D_F25.png)
+![1](https://github.com/Spacewe-outlook/DSS/blob/master/FIG_PHA_2D_F26.png)
+![1](https://github.com/Spacewe-outlook/DSS/blob/master/FIG_PHA_2D_F27.png)
+![1](https://github.com/Spacewe-outlook/DSS/blob/master/FIG_PHA_2D_F28.png)
